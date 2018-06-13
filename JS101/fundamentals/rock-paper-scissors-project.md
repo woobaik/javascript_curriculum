@@ -37,7 +37,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 
 - Add your solution below this line!
 - [Inuhoo's Solution](https://github.com/inuhoo/rock-paper-scissors) - [View in Browser](https://inuhoo.github.io/rock-paper-scissors/)
-- [Jbaik's solution](https://github.com/woobaik/the_odin/blob/master/html_css/basic_js/rock_paper_scissors.html)
+- [Jbaik's solution](https://github.com/woobaik/the_odin/blob/master/html_css/basic_js/rock_paper_scissors.html) -[View in Browser](https://github.com/woobaik/the_odin/blob/master/html_css/basic_js/new_rock_scissors.html)
 - [Reece Pritchard's Solution](https://github.com/rapritchard/rock-paper-scissors) - [View in Browser](https://rapritchard.github.io/rock-paper-scissors/)
 - [Ajani Stewart's Solution](https://github.com/AjaniStewart/rock-paper-scissors)
 - [Chris Magennis' Solution](https://github.com/cMagennis/rockPaperScissors)
